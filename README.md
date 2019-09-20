@@ -1,0 +1,21 @@
+*************************************
+*************************************
+www.ydook.com    JY Lin   2019
+*************************************
+*************************************
+
+YecPad is an upgraded more powerful and optimized notepad software for windows system, which is developed based on C# language to program.
+YecPad was developed by JY Lin alone. 
+
+JY Lin's ORCID number is https://orcid.org/0000-0003-0558-6699.
+JY Lin's personal website is:  http://www.ydook.com/.
+
+
+*************************************************************************************************************************************************************************************
+*************************************************************************************************************************************************************************************
+
+YecPad is easy to use and has many functions. GitHuber, who is interested in it, is welcome to join the family that develops YecPad.
+YecPad becomes more wonderful because of you!
+
+
+JY Lin, September 19, 2019
