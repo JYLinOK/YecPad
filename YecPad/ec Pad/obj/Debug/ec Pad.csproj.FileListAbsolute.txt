@@ -1,0 +1,21 @@
+H:\C# Windows Programs\ec Pad\ec Pad\bin\Debug\ec Pad.exe.config
+H:\C# Windows Programs\ec Pad\ec Pad\bin\Debug\ec Pad.exe
+H:\C# Windows Programs\ec Pad\ec Pad\bin\Debug\ec Pad.pdb
+H:\C# Windows Programs\ec Pad\ec Pad\obj\Debug\ec Pad.csprojResolveAssemblyReference.cache
+H:\C# Windows Programs\ec Pad\ec Pad\obj\Debug\ec_Pad.Form1.resources
+H:\C# Windows Programs\ec Pad\ec Pad\obj\Debug\ec_Pad.Properties.Resources.resources
+H:\C# Windows Programs\ec Pad\ec Pad\obj\Debug\ec Pad.csproj.GenerateResource.Cache
+H:\C# Windows Programs\ec Pad\ec Pad\obj\Debug\ec Pad.csproj.CoreCompileInputs.cache
+H:\C# Windows Programs\ec Pad\ec Pad\obj\Debug\ec Pad.exe
+H:\C# Windows Programs\ec Pad\ec Pad\obj\Debug\ec Pad.pdb
+H:\yuan1\C# Windows Programs\ec Pad\ec Pad\bin\Debug\ec Pad.exe.config
+H:\yuan1\C# Windows Programs\ec Pad\ec Pad\bin\Debug\ec Pad.exe
+H:\yuan1\C# Windows Programs\ec Pad\ec Pad\bin\Debug\ec Pad.pdb
+H:\yuan1\C# Windows Programs\ec Pad\ec Pad\obj\Debug\ec Pad.csprojResolveAssemblyReference.cache
+H:\yuan1\C# Windows Programs\ec Pad\ec Pad\obj\Debug\ec_Pad.Form1.resources
+H:\yuan1\C# Windows Programs\ec Pad\ec Pad\obj\Debug\ec_Pad.Properties.Resources.resources
+H:\yuan1\C# Windows Programs\ec Pad\ec Pad\obj\Debug\ec Pad.csproj.GenerateResource.Cache
+H:\yuan1\C# Windows Programs\ec Pad\ec Pad\obj\Debug\ec Pad.csproj.CoreCompileInputs.cache
+H:\yuan1\C# Windows Programs\ec Pad\ec Pad\obj\Debug\ec Pad.exe
+H:\yuan1\C# Windows Programs\ec Pad\ec Pad\obj\Debug\ec Pad.pdb
+H:\yuan1\C# Windows Programs\ec Pad\ec Pad\obj\Debug\ec_Pad.Form2.resources
